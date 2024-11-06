@@ -237,7 +237,7 @@ async def entrypoint(ctx: JobContext):
 
     # Handle the LLM provider selection
     if llm_provider == "server":
-        print("Custom LLM is selected. Please contact info@swarmchain.org for access to this feature.")
+        print("Custom LLM is selected. Please contact info@nidum.ai for access to this feature.")
         return
     elif llm_provider == "groq":
         llm_instance = LLM.with_groq(model=llm_model, api_key=os.getenv("GROQ_API_KEY"))
@@ -251,14 +251,14 @@ async def entrypoint(ctx: JobContext):
 
     # Handle the STT provider selection
     if stt_provider == "server":
-        print("Custom STT is selected. Please contact info@swarmchain.org for access to this feature.")
+        print("Custom STT is selected. Please contact info@nidum.ai for access to this feature.")
         return
     else:
         stt_instance = deepgram.STT(model=stt_model, language=language)
 
     # Handle the TTS provider selection
     if tts_provider == "server":
-        print("Custom TTS is selected. Please contact info@swarmchain.org for access to this feature.")
+        print("Custom TTS is selected. Please contact info@nidum.ai for access to this feature.")
         return
     else:
         tts_instance = openai.TTS(model="tts-1-hd", voice=voice, speed=tts_speed)

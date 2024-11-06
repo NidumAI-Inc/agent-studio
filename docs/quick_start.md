@@ -597,7 +597,7 @@ These integrations allow agents to handle customer interactions initiated throug
 
 1. Log in to your SalesIQ website. Take note of your company domain name and SalesIQ domain name, which can be found in the URL. \
 Example: \
-`https://salesiq.zoho.in/swarmchain/onboard` - "in" is the SalesIQ domain name and "swarmchain" is your domain name.
+`https://salesiq.zoho.in/swarmchain/onboard` - "in" is the SalesIQ domain name and example : "swarmchain" is your domain name.
 
 2. Log in to Zoho developer/API console. Create client data as follows:
 
@@ -627,8 +627,6 @@ After getting the **code**, you need to make an API call to retrieve **refresh_t
 ```
 [https://accounts.zoho.{SalesIQ-Domain}/oauth/v2/token?code={Retrieved-Code}&grant_type=authorization_code&client_id={Client-ID}&client_secret={Client-Secret}&redirect_uri=https://localhost.com&scope=SalesIQ.conversations.READ,SalesIQ.conversations.CREATE,SalesIQ.webhooks.READ,SalesIQ.webhooks.CREATE,SalesIQ.webhooks.UPDATE,SalesIQ.webhooks.DELETE,SalesIQ.Apps.READ](null)
 
-
-Watch video if needed - [Demo Link](https://drive.google.com/file/d/1M95YVKlWMJE28RxgLBYDcLfXPPPWGwVI/view?usp=sharing)
 
 ```
 **Step 3:**
@@ -662,7 +660,7 @@ Watch video if needed - [Demo Link](https://drive.google.com/file/d/1M95YVKlWMJE
 
 - Give a name for the API key and click **Next**. This is for reference. Copy the **App ID**, **Key ID**, and **Secret Key** values generated. These will be used to authorize Agent Studio.
 
-Watch video if needed - [Demo Link](https://drive.google.com/file/d/1yCpKhL3pTxWaVhtfIrlAbt7xFrSPnih7/view?usp=sharing)
+
 
 **Step 5:**
 

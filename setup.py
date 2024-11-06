@@ -5,7 +5,7 @@ setup(
     version='1.0.0',
     description='A voice assistant AI app using Livekit, LLaMA, and OpenAI integrations',
     author='nidum',
-    author_email='info@swarmchain.org',
+    author_email='info@nidum.ai',
     python_requires='>=3.12',
     install_requires=[
         'aiodns==3.2.0',
@@ -179,7 +179,7 @@ setup(
 
     classifiers=[
         'Programming Language :: Python :: 3.12',
-        'License :: OSI Approved :: MIT License',  # Or the license you're using
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
 )
