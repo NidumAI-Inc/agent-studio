@@ -12,7 +12,7 @@ The full roadmap is available [here](https://github.com/NidumAI-Inc/agent-studio
 
 ---
 
-<iframe src="https://player.vimeo.com/video/1027002403" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![Watch the Demo on Vimeo](https://placehold.co/600x400?text=Watch+Demo+on+Vimeo)](https://vimeo.com/1027002403)
 
 ---
 
