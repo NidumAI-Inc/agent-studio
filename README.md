@@ -12,7 +12,9 @@ The full roadmap is available [here](https://github.com/NidumAI-Inc/agent-studio
 
 ---
 
-[![Watch the Demo on Vimeo](https://placehold.co/600x400?text=Watch+Demo+on+Vimeo)](https://vimeo.com/1027002403)
+![Agent Studio Introduction](docs/intro.gif)
+
+Alternatively, you can view it directly on [Vimeo](https://vimeo.com/1027002403).
 
 ---
 
