@@ -6,7 +6,7 @@
 ---
 ## Featured on Product Hunt 🎉
 
-[![NidumAI Agent Studio on Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=nidumai-agent-studio&theme=dark)](https://www.producthunt.com/posts/nidumai-agent-studio?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nidumai-agent-studio)
+[![NidumAI Agent Studio on Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=nidumai-agent-studio&theme=light)](https://www.producthunt.com/posts/nidumai-agent-studio?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nidumai-agent-studio)
 
 # **ROADMAP**
 
